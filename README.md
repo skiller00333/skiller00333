@@ -11,3 +11,4 @@ skiller00333/skiller00333 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 Hi,I am skiller
+i need help on how to learn pyhon
